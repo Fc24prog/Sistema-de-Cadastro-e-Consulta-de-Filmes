@@ -1,4 +1,4 @@
-package priscillaComposição;
+package projetoComposição;
 import java.util.Scanner;
 import java.util.ArrayList;
 
